@@ -7,10 +7,15 @@ But if spatial autocorrelation is high, we don't know where the clusters are for
 
 ## 2. LISA
 - Spatial Cluster
+  
 HH : High-High (Hot Spot)
+
 LL : Low-Low (Cold Spot)
+
 - Spatial Outlier
+  
 HL : High-Low (one point has high values, but near points are not)
+
 LH : Low-High
 
 ## 3. Spatial Lag
